@@ -10,4 +10,6 @@
 3. complete 3_simple_datatypes.py
 4. start 4_operators.py 
 
-5. learn about decorators, functools, itertools
+5. learn about functools, itertools
+6. decorators
+7. generators, yield keyword & coroutines
